@@ -5,9 +5,11 @@ jspm_packages/
 # Optional npm cache directory
 .npm
 
+
 # Build
 /dist
 /build
+/coverage
 
 # Optional eslint cache
 .eslintcache
